@@ -6,13 +6,8 @@
 #### 🌍 "Quanto mais eu sei, mais eu sou." 🧠
 
 ## 📌 Linguagens
-* Java
-* C#
-* Python
-* MySQL
-* JavaScript
-* HTML 5
-* CSS 3
+<img src = '' width='30'/>
+
 
 ## 📚 Aprendendo
 * PHP
@@ -20,6 +15,9 @@
 * Kotlin
 * SQL Server
 * SuiteScript
+
+## ❗ Interesse
+
 
 ## 📞 Contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavoddainezi)](https://github.com/gustavoddainezi)
