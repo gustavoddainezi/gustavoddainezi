@@ -11,7 +11,7 @@
 ## 📚 Aprendendo
 <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/flutter.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/kotlin.png' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/angular.png' width='30'/>
 
-## ❗ Interesse
+## ❗ Interesses
 <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/jupyter.png' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/bootstrap.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/jquery.png' width='30'/> 
 
 ## 📞 Contatos
