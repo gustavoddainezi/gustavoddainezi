@@ -5,19 +5,14 @@
 
 #### 🌍 "Quanto mais eu sei, mais eu sou." 🧠
 
-## 📌 Linguagens
-<img src = '' width='30'/>
-
+## 📌 Habilidades
+<img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/java.png' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/c_sharp.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/python3.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/php.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/html5.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/css3.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/javascript.png' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/mysql.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/arduino.png' width='30'/>
 
 ## 📚 Aprendendo
-* PHP
-* Flutter
-* Kotlin
-* SQL Server
-* SuiteScript
+<img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/flutter.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/kotlin.png' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/angular.png' width='30'/>
 
 ## ❗ Interesse
-
+<img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/jupyter.png' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/bootstrap.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/jquery.png' width='30'/> 
 
 ## 📞 Contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavoddainezi)](https://github.com/gustavoddainezi)
