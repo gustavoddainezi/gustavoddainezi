@@ -7,7 +7,7 @@
 
 ## 📌 Habilidades
 <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/java.png' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/c_sharp.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/python3.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/php.png' width='40'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/html5.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/css3.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/javascript.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/mysql.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/arduino.png' width='30'/>
-
+<img align="right" src="https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/back.png" width="350"/>
 ## 📚 Aprendendo
 <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/kotlin.png' width='35'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/flutter.svg' width='30'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/angular.png' width='40'/> <img src = 'https://github.com/gustavoddainezi/gustavoddainezi/blob/master/image/sqlserver.png' width='40'/>
 
